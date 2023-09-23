@@ -1,11 +1,3 @@
-"""
-    Установка:
-        bs4 - pip install beautifulsoup4
-        lxml - pip install lxml
-        html5lib - pip install html5lib
-"""
-
-
 from bs4 import BeautifulSoup
 import requests
 import lxml
